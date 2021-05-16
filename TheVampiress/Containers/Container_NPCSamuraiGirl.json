@@ -1,0 +1,25 @@
+{
+  "$type": "ThunderRoad.ContainerData, Assembly-CSharp",
+  "id": "NPCTheVampiress",
+  "saveFolder": "Bas",
+  "version": 1,
+  "displayName": "",
+  "description": null,
+  "contents": [
+    {
+      "referenceID": "ApparelTheVampiress",
+      "reference": "Item",
+      "customValues": []
+    },
+    {
+      "referenceID": "WeaponSword",
+      "reference": "Table",
+      "customValues": [
+        {
+          "id": "Holder",
+          "value": "BackRight"
+        }
+      ]
+    }
+  ]
+}
