@@ -1,0 +1,13 @@
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Containers\Container_NPCTheVampiress.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Creatures\Creature_TheVampiress.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Avatar_TheVampiress.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Wardrobe_ApparelTheVampiress.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\manifest.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Waves\Wave_TheVampiresses1.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Waves\Wave_TheVampiresses2.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Waves\Wave_TheVampiresses3.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\TheVampiress.dll
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\TheVampiress.pdb
+C:\Users\nikon\RiderProjects\TheVampiress\TheVampiress\obj\Release\TheVampiress.csprojResolveAssemblyReference.cache
+C:\Users\nikon\RiderProjects\TheVampiress\TheVampiress\obj\Release\TheVampiress.dll
+C:\Users\nikon\RiderProjects\TheVampiress\TheVampiress\obj\Release\TheVampiress.pdb

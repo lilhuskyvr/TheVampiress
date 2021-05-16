@@ -54,8 +54,9 @@
         "LeftLeg_Mesh",
         "LeftUpLeg_Mesh",
         "LeftFoot_Mesh",
-        "Neck_Mesh",
-        "Head_Mesh"
+        "LeftArm_Mesh",
+        "LeftForeArm_Mesh",
+        "LeftHand_Mesh"
       ],
       "bones": {
         "Rig_Mesh": {
@@ -93,16 +94,6 @@
           "y": 0,
           "z": 0
         },
-        "RightArm_Mesh": {
-          "x": -90,
-          "y": 180,
-          "z": 0
-        },
-        "LeftArm_Mesh": {
-          "x": -90,
-          "y": 0,
-          "z": 0
-        },
         "LowerBack_Mesh": {
           "x": -90,
           "y": 0,
@@ -128,36 +119,48 @@
           "y": 0,
           "z": 0
         },
-        "LeftHand_Mesh": {
+        "RightFoot_Mesh": {
+          "x": 80,
+          "y": 0,
+          "z": 45
+        },
+        "LeftFoot_Mesh": {
+          "x": 90,
+          "y": 140,
+          "z": 0
+        },
+        "LeftArm_Mesh": {
           "x": -90,
           "y": 0,
           "z": 0
-        },
-        "RightHand_Mesh": {
-          "x": -90,
-          "y": 180,
-          "z": 0
-        },
-        "RightForeArm_Mesh": {
-          "x": -120,
-          "y": 180,
-          "z": 5
         },
         "LeftForeArm_Mesh": {
           "x": -110,
           "y": 0,
           "z": 5
         },
-        "RightFoot_Mesh": {
-          "x": 70,
+        "LeftHand_Mesh": {
+          "x": -90,
           "y": 0,
-          "z": 50
-        },
-        "LeftFoot_Mesh": {
-          "x": 90,
-          "y": 120,
           "z": 0
         },
+        "RightArm_Mesh": {
+          "x": -90,
+          "y": 180,
+          "z": 0
+        },
+        "RightForeArm_Mesh": {
+          "x": -90,
+          "y": 180,
+          "z": 0
+        },
+        "RightHand_Mesh": {
+          "x": -90,
+          "y": 180,
+          "z": 0
+        }
+      },
+      "ignoredBones": {
         "RightFingerIndexProximal_Mesh": {
           "x": -90,
           "y": 0,
@@ -309,23 +312,7 @@
           "z": 0
         }
       },
-      "extraPositionBones": {
-        "Spine_Mesh": {
-          "x": 0,
-          "y": 0.05,
-          "z": 0
-        },
-        "Spine1_Mesh": {
-          "x": 0,
-          "y": 0,
-          "z": 0
-        },
-        "LowerBack_Mesh": {
-          "x": 0,
-          "y": 0.1,
-          "z": 0
-        }
-      }
+      "extraPositionBones": {}
     },
     {
       "$type": "ThunderRoad.ItemModuleWardrobe, Assembly-CSharp",
