@@ -12,7 +12,22 @@
       "customValues": []
     },
     {
-      "referenceID": "WeaponSword",
+      "referenceID": "SpellFire",
+      "reference": "Item",
+      "customValues": []
+    },
+    {
+      "referenceID": "SpellLightning",
+      "reference": "Item",
+      "customValues": []
+    },
+    {
+      "referenceID": "SpellGravity",
+      "reference": "Item",
+      "customValues": []
+    },
+    {
+      "referenceID": "WeaponDagger",
       "reference": "Table",
       "customValues": [
         {

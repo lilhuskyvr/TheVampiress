@@ -21,7 +21,7 @@
   "overlapMask": -1929369600,
   "containerID": "NPCTheVampiress",
   "factionId": 3,
-  "brainId": "BaseWarrior",
+  "brainId": "BaseMage",
   "avoidancePriority": 10,
   "openHandPoseId": "DefaultOpen",
   "closeHandPoseId": "DefaultClose",
