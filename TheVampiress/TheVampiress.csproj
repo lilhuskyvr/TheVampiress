@@ -48,9 +48,9 @@
     <Content Include="Items\Item_Avatar_TheVampiress.json" />
     <Content Include="Items\Item_Wardrobe_ApparelTheVampiress.json" />
     <Content Include="manifest.json" />
-    <Content Include="Waves\Wave_TheVampiresss1.json" />
-    <Content Include="Waves\Wave_TheVampiresss2.json" />
-    <Content Include="Waves\Wave_TheVampiresss3.json" />
+    <Content Include="Waves\Wave_TheVampiresses1.json" />
+    <Content Include="Waves\Wave_TheVampiresses2.json" />
+    <Content Include="Waves\Wave_TheVampiresses3.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
