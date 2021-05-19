@@ -20,8 +20,8 @@
   "enemiesHealthMultiplier": 1.0,
   "groups": [
     {
-      "reference": "Creature",
-      "referenceID": "TheVampiress",
+      "reference": "Table",
+      "referenceID": "TheVampiresses",
       "overrideFaction": true,
       "factionID": 5,
       "overrideContainer": false,
@@ -39,8 +39,8 @@
       "conditionThreshold": 0
     },
     {
-      "reference": "Creature",
-      "referenceID": "TheVampiress",
+      "reference": "Table",
+      "referenceID": "TheVampiresses",
       "overrideFaction": true,
       "factionID": 5,
       "overrideContainer": false,
@@ -58,8 +58,8 @@
       "conditionThreshold": 0
     },
     {
-      "reference": "Creature",
-      "referenceID": "TheVampiress",
+      "reference": "Table",
+      "referenceID": "TheVampiresses",
       "overrideFaction": true,
       "factionID": 5,
       "overrideContainer": false,
@@ -77,8 +77,8 @@
       "conditionThreshold": 0
     },
     {
-      "reference": "Creature",
-      "referenceID": "TheVampiress",
+      "reference": "Table",
+      "referenceID": "TheVampiresses",
       "overrideFaction": true,
       "factionID": 5,
       "overrideContainer": false,
@@ -96,8 +96,8 @@
       "conditionThreshold": 0
     },
     {
-      "reference": "Creature",
-      "referenceID": "TheVampiress",
+      "reference": "Table",
+      "referenceID": "TheVampiresses",
       "overrideFaction": false,
       "factionID": 5,
       "overrideContainer": false,

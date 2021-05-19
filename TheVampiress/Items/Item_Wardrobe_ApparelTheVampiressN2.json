@@ -1,6 +1,6 @@
 {
   "$type": "ThunderRoad.ItemData, Assembly-CSharp",
-  "id": "ApparelTheVampiress",
+  "id": "ApparelTheVampiressN2",
   "saveFolder": "Bas",
   "version": 4,
   "localizationId": null,
@@ -42,7 +42,7 @@
   "modules": [
     {
       "$type": "CustomAvatarFramework.ItemModuleAvatar, CustomAvatarFramework",
-      "avatarItemId": "TheVampiress",
+      "avatarItemId": "TheVampiressN2",
       "avatarHeight": 1.75,
       "playerScaleRatio": 1.0,
       "npcScaleRatio": 1.0,

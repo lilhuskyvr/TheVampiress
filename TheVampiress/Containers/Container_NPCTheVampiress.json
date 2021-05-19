@@ -7,8 +7,8 @@
   "description": null,
   "contents": [
     {
-      "referenceID": "ApparelTheVampiress",
-      "reference": "Item",
+      "referenceID": "ApparelTheVampiresses",
+      "reference": "Table",
       "customValues": []
     },
     {
@@ -27,8 +27,8 @@
       "customValues": []
     },
     {
-      "referenceID": "WeaponDagger",
-      "reference": "Table",
+      "referenceID": "TheVampiressWeapon",
+      "reference": "Item",
       "customValues": [
         {
           "id": "Holder",

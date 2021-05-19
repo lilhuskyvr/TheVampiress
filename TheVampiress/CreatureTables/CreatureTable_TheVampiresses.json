@@ -1,0 +1,21 @@
+{
+  "$type": "ThunderRoad.CreatureTable, Assembly-CSharp",
+  "id": "TheVampiresses",
+  "saveFolder": "Bas",
+  "version": 1,
+  "description": null,
+  "linkedToGenderRatio": true,
+  "drops": [
+    {
+      "reference": "Creature",
+      "referenceID": "TheVampiress",
+      "overrideFaction": false,
+      "factionID": 0,
+      "overrideContainer": false,
+      "overrideContainerID": "",
+      "overrideBrain": false,
+      "overrideBrainID": "",
+      "probabilityWeight": 1.0
+    }
+  ]
+}

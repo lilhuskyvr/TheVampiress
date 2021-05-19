@@ -1,0 +1,89 @@
+{
+  "$type": "ThunderRoad.ItemData, Assembly-CSharp",
+  "id": "TheVampiressWeapon",
+  "saveFolder": "Bas",
+  "version": 4,
+  "localizationId": "TheVampiressWeapon",
+  "displayName": "Common Dagger",
+  "description": "A common dagger, found on any footmen... dead or alive.",
+  "author": "lilhusky",
+  "price": 0.0,
+  "purchasable": false,
+  "tier": 2,
+  "levelRequired": 0,
+  "isStackable": false,
+  "categoryPath": [],
+  "iconEffectId": null,
+  "iconAddress": null,
+  "prefabAddress": "TheVampiressWeapon",
+  "pooledCount": 0,
+  "androidPooledCount": 0,
+  "type": "Weapon",
+  "slot": "Small",
+  "snapAudioContainerAddress": null,
+  "mass": 0.8,
+  "drag": 0.4,
+  "angularDrag": 0.05,
+  "manaRegenMultiplier": 1.0,
+  "spellChargeSpeedPlayerMultiplier": 1.0,
+  "spellChargeSpeedNPCMultiplier": 1.0,
+  "collisionMaxOverride": 0,
+  "collisionEnterOnly": false,
+  "collisionNoMinVelocityCheck": false,
+  "forceLayer": "None",
+  "flyFromThrow": true,
+  "flyRotationSpeed": 3.0,
+  "flyThrowAngle": 145.0,
+  "telekinesisSafeDistance": 1.0,
+  "telekinesisSpinEnabled": true,
+  "telekinesisThrowRatio": 1.0,
+  "grippable": true,
+  "customSnaps": [],
+  "modules": [
+    {
+      "$type": "ThunderRoad.ItemModuleAI, Assembly-CSharp",
+      "weaponClass": "Melee",
+      "weaponHandling": "OneHanded",
+      "parryIgnoreRotation": false,
+      "parryRotation": 90.0,
+      "parryDualRotation": 60.0,
+      "armResistanceMultiplier": 2.0,
+      "parryRevertAngleRange": {
+        "x": -80.0,
+        "y": -180.0
+      },
+      "parryDefaultPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "parryDefaultLeftRotation": {
+        "x": 25.0,
+        "y": -10.0,
+        "z": -65.0
+      },
+      "parryDefaultRightRotation": {
+        "x": 30.0,
+        "y": 5.0,
+        "z": 60.0
+      },
+      "allowDynamicHeight": false,
+      "dodgeBehaviour": "Always",
+      "defenseHasPriority": false,
+      "attackIgnore": false,
+      "attackForceParryIgnoreRotation": false
+    }
+  ],
+  "colliderGroups": [],
+  "damagers": [],
+  "Interactables": [
+    {
+      "transformName": "Handle",
+      "interactableId": "ObjectHandleHeavy",
+      "overrideHandPose": true,
+      "handPoseId": "DefaultOpen"
+    }
+  ],
+  "effectHinges": [],
+  "whooshs": []
+}

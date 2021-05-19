@@ -11,3 +11,17 @@ D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\M
 C:\Users\nikon\RiderProjects\TheVampiress\TheVampiress\obj\Release\TheVampiress.csprojResolveAssemblyReference.cache
 C:\Users\nikon\RiderProjects\TheVampiress\TheVampiress\obj\Release\TheVampiress.dll
 C:\Users\nikon\RiderProjects\TheVampiress\TheVampiress\obj\Release\TheVampiress.pdb
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Weapon_TheVampiressWeapon.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Brains\Brain_TheVampiress.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\CreatureTables\CreatureTable_TheVampiresses.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Wardrobe_ApparelTheVampiressN1.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Wardrobe_ApparelTheVampiressN2.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Wardrobe_ApparelTheVampiressN3.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Wardrobe_ApparelTheVampiressN4.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Wardrobe_ApparelTheVampiressN5.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Avatar_TheVampiressN1.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Avatar_TheVampiressN2.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Avatar_TheVampiressN3.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Avatar_TheVampiressN4.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Avatar_TheVampiressN5.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\LootTables\LootTable_ApparelTheVampiresses.json

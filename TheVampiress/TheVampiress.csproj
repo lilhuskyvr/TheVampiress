@@ -43,16 +43,58 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Brains\Brain_TheVampiress.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Containers\Container_NPCTheVampiress.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Creatures\Creature_TheVampiress.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="CreatureTables\CreatureTable_TheVampiresses.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Items\Item_Avatar_TheVampiress.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Items\Item_Avatar_TheVampiressN1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Avatar_TheVampiressN2.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Avatar_TheVampiressN3.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Avatar_TheVampiressN4.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Avatar_TheVampiressN5.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Items\Item_Wardrobe_ApparelTheVampiress.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Wardrobe_ApparelTheVampiressN1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Wardrobe_ApparelTheVampiressN2.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Wardrobe_ApparelTheVampiressN3.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Wardrobe_ApparelTheVampiressN4.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Wardrobe_ApparelTheVampiressN5.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Weapon_TheVampiressWeapon.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="LootTables\LootTable_ApparelTheVampiresses.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="manifest.json">
@@ -70,10 +112,10 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
-           Other similar extension points exist, see Microsoft.Common.targets.
-      <Target Name="BeforeBuild">
-      </Target>
-      <Target Name="AfterBuild">
-      </Target>
-      -->
+                   Other similar extension points exist, see Microsoft.Common.targets.
+              <Target Name="BeforeBuild">
+              </Target>
+              <Target Name="AfterBuild">
+              </Target>
+              -->
 </Project>
