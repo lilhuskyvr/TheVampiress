@@ -1,0 +1,76 @@
+{
+  "$type": "ThunderRoad.ItemData, Assembly-CSharp",
+  "id": "TheVampiressSkull",
+  "saveFolder": "Bas",
+  "version": 4,
+  "localizationId": "TheVampiressSkull",
+  "displayName": "The Vampiress's Skull",
+  "description": "An ancient skull of a beauty - the vampiress",
+  "author": "lilhusky",
+  "price": 0.0,
+  "purchasable": true,
+  "tier": 2,
+  "levelRequired": 0,
+  "isStackable": false,
+  "categoryPath": ["Summoners"],
+  "iconEffectId": null,
+  "iconAddress": null,
+  "prefabAddress": "TheVampiressSkull",
+  "pooledCount": 0,
+  "androidPooledCount": 0,
+  "type": "Weapon",
+  "slot": "Small",
+  "snapAudioContainerAddress": null,
+  "mass": 0.8,
+  "drag": 0.4,
+  "angularDrag": 0.05,
+  "manaRegenMultiplier": 1.0,
+  "spellChargeSpeedPlayerMultiplier": 1.0,
+  "spellChargeSpeedNPCMultiplier": 1.0,
+  "collisionMaxOverride": 0,
+  "collisionEnterOnly": false,
+  "collisionNoMinVelocityCheck": false,
+  "forceLayer": "None",
+  "flyFromThrow": true,
+  "flyRotationSpeed": 3.0,
+  "flyThrowAngle": 145.0,
+  "telekinesisSafeDistance": 1.0,
+  "telekinesisSpinEnabled": true,
+  "telekinesisThrowRatio": 1.0,
+  "grippable": true,
+  "customSnaps": [],
+  "modules": [
+    {
+      "$type": "NPCSummoningItem.ItemModuleSummoner, NPCSummoningItem",
+      "reference": "Table",
+      "referenceID": "TheVampiresses"
+    }
+  ],
+  "colliderGroups": [],
+  "damagers": [
+    {
+      "transformName": "Blunt",
+      "damagerID": "Mace1H"
+    }
+  ],
+  "Interactables": [
+    {
+      "transformName": "Handle",
+      "interactableId": "ObjectHandleHeavy",
+      "overrideHandPose": true,
+      "handPoseId": "GrappleSkull"
+    }
+  ],
+  "effectHinges": [],
+  "whooshs": [
+    {
+      "transformName": "Whoosh",
+      "effectId": "WhooshMace",
+      "trigger": "Always",
+      "stopOnSnap": true,
+      "minVelocity": 3.0,
+      "maxVelocity": 10.0,
+      "dampening": 0.1
+    }
+  ]
+}

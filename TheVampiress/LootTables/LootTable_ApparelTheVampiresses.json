@@ -12,27 +12,27 @@
     {
       "referenceID": "ApparelTheVampiressN1",
       "reference": "Item",
-      "probabilityWeight": 1.0
+      "probabilityWeight": 0.0
     },
     {
       "referenceID": "ApparelTheVampiressN2",
       "reference": "Item",
-      "probabilityWeight": 1.0
+      "probabilityWeight": 0.0
     },
     {
       "referenceID": "ApparelTheVampiressN3",
       "reference": "Item",
-      "probabilityWeight": 1.0
+      "probabilityWeight": 0.0
     },
     {
       "referenceID": "ApparelTheVampiressN4",
       "reference": "Item",
-      "probabilityWeight": 1.0
+      "probabilityWeight": 0.0
     },
     {
       "referenceID": "ApparelTheVampiressN5",
       "reference": "Item",
-      "probabilityWeight": 1.0
+      "probabilityWeight": 0.0
     }
   ]
 }

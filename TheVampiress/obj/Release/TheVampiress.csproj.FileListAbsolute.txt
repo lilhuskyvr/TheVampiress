@@ -25,3 +25,4 @@ D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\M
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Avatar_TheVampiressN4.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Avatar_TheVampiressN5.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\LootTables\LootTable_ApparelTheVampiresses.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\TheVampiress\Items\Item_Weapon_TheVampiressSkull.json

@@ -91,6 +91,9 @@
     <Content Include="Items\Item_Wardrobe_ApparelTheVampiressN5.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Items\Item_Weapon_TheVampiressSkull.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Items\Item_Weapon_TheVampiressWeapon.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
